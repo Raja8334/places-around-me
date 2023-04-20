@@ -150,7 +150,8 @@ The town covers an area of 20.59 sq.km.[1] Though a landlocked district, fossils
 </html>
 ```
 ## Output:
-![output](MAP.M.png)
+![output](![WhatsApp Image 2023-04-20 at 11 03 58](https://user-images.githubusercontent.com/120719634/233268120-2358e20b-2c71-4e8a-a05e-10aee78d9a3f.jpg))
+
 ![output](Postoffice(1).png)
 ![output](Stationary(1).png)
 ![output](Temple(1).png)
